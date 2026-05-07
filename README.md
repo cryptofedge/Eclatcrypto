@@ -1,7 +1,8 @@
-# EclatCrypto ($ECLT)
+﻿# EclatCrypto ($ECLT)
 
 A Solana meme coin launched on Pump.fun. Pure community, pure vibes, zero promises.
 
+![EclatCrypto logo](./eclt-logo.png)
 
 ## The Pitch
 
@@ -28,7 +29,7 @@ ECLT launches on a **bonding curve**: as people buy, price goes up; as people se
 
 Once ECLT's market cap hits ~$69k, Pump.fun **auto-migrates** the token:
 - The remaining SOL in the bonding curve + ~200M ECLT reserved tokens create a liquidity pool
-- That LP is **permanently locked** (burned) — nobody can pull liquidity, ever
+- That LP is **permanently locked** (burned) ΓÇö nobody can pull liquidity, ever
 - ECLT then trades freely on PumpSwap / Raydium, accessible via Jupiter
 
 Until graduation, ECLT can only be bought/sold on Pump.fun itself.
@@ -36,25 +37,25 @@ Until graduation, ECLT can only be bought/sold on Pump.fun itself.
 ## How to buy
 
 **Before graduation (bonding curve):**
-1. Install Phantom, Solflare, or Backpack wallet → fund with SOL
-2. Go to **pump.fun** → paste the ECLT contract address
-3. Enter SOL amount → buy
+1. Install Phantom, Solflare, or Backpack wallet ΓåÆ fund with SOL
+2. Go to **pump.fun** ΓåÆ paste the ECLT contract address
+3. Enter SOL amount ΓåÆ buy
 
 **After graduation (~$69k market cap):**
 1. Use **Jupiter** (jup.ag), **Raydium**, or Phantom's built-in swap
-2. Paste the ECLT contract address → swap SOL for ECLT
+2. Paste the ECLT contract address ΓåÆ swap SOL for ECLT
 
-Always double-check the contract address — scammers clone meme coin tickers constantly.
+Always double-check the contract address ΓÇö scammers clone meme coin tickers constantly.
 
 ## Roadmap
 
 This is a meme coin, so the roadmap is intentionally honest:
 
-- **Phase 1 — Launch.** Deploy on Pump.fun. Dev buy small, make it public.
-- **Phase 2 — Meme.** Telegram, X, Discord. Memes, not promises.
-- **Phase 3 — Graduate.** Hit $69k market cap → auto-migration to PumpSwap/Raydium → LP locked forever.
-- **Phase 4 — List.** Submit to Jupiter strict list, DexScreener enhanced info, Birdeye, CoinGecko, CoinMarketCap.
-- **Phase 5 — Whatever the community builds.** NFTs, merch, a game, a charity pool. Up to the holders.
+- **Phase 1 ΓÇö Launch.** Deploy on Pump.fun. Dev buy small, make it public.
+- **Phase 2 ΓÇö Meme.** Telegram, X, Discord. Memes, not promises.
+- **Phase 3 ΓÇö Graduate.** Hit $69k market cap ΓåÆ auto-migration to PumpSwap/Raydium ΓåÆ LP locked forever.
+- **Phase 4 ΓÇö List.** Submit to Jupiter strict list, DexScreener enhanced info, Birdeye, CoinGecko, CoinMarketCap.
+- **Phase 5 ΓÇö Whatever the community builds.** NFTs, merch, a game, a charity pool. Up to the holders.
 
 ## Links
 
@@ -66,7 +67,7 @@ This is a meme coin, so the roadmap is intentionally honest:
 
 ## Disclaimer
 
-ECLT is a meme coin. It has no intrinsic value, no guaranteed utility, and no expectation of financial return. Do not invest more than you are willing to lose. This is not financial advice. Crypto regulations vary by country — make sure participating is legal where you live. The token contract is open and on-chain; inspect it before buying.
+ECLT is a meme coin. It has no intrinsic value, no guaranteed utility, and no expectation of financial return. Do not invest more than you are willing to lose. This is not financial advice. Crypto regulations vary by country ΓÇö make sure participating is legal where you live. The token contract is open and on-chain; inspect it before buying.
 
 ---
 
@@ -76,7 +77,7 @@ ECLT is a meme coin. It has no intrinsic value, no guaranteed utility, and no ex
 
 ### FEDGE 2.O | Powered by Rafael Fellito Rodriguez and Eclat Universe
 
-**© 2026 FEDGE 2.O. All rights reserved.**
+**┬⌐ 2026 FEDGE 2.O. All rights reserved.**
 
 This project is part of the FEDGE 2.O ecosystem and is protected under full intellectual property rights reserved by Rafael Fellito Rodriguez and Eclat Universe.
 
@@ -89,11 +90,11 @@ This project is part of the FEDGE 2.O ecosystem and is protected under full inte
 
 ### Key Rights
 
-✓ **All intellectual property retained**
-✓ **Reproduction prohibited without permission**
-✓ **Distribution rights reserved**
-✓ **Derivative works not permitted**
-✓ **Commercial use requires authorization**
+Γ£ô **All intellectual property retained**
+Γ£ô **Reproduction prohibited without permission**
+Γ£ô **Distribution rights reserved**
+Γ£ô **Derivative works not permitted**
+Γ£ô **Commercial use requires authorization**
 
 ### Attribution
 
