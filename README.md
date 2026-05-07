@@ -2,7 +2,6 @@
 
 A Solana meme coin launched on Pump.fun. Pure community, pure vibes, zero promises.
 
-![EclatCrypto logo](./eclt-logo.png)
 
 ## The Pitch
 
