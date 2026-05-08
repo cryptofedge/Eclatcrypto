@@ -1,4 +1,4 @@
-﻿# EclatCrypto ($ECLT)
+﻿﻿# EclatCrypto ($ECLT)
 
 A Solana meme coin launched on Pump.fun. Pure community, pure vibes, zero promises.
 
